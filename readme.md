@@ -1,5 +1,7 @@
 # Car Rental System
 
+![plot](./portfolio/homepage.png)
+
 ## INTRODUCTION
 The main objective of the application car Rental System require a temporary vehicle, for example those who do not own their own car, or owners of damaged or destroyed vehicles who are awaiting repair or insurance compensation or travelers who are out of town.
 
@@ -8,6 +10,7 @@ The main objective of the application car Rental System require a temporary vehi
 - Registered Users
 - Guest Users
 
+![plot](./portfolio/admin_dashboard.png)
 ## Admin Features
 - Admin Login
 - Admin can Add New vehicle brand Details
