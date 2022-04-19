@@ -1,6 +1,6 @@
 # Car Rental System
 
-![alt text](https://github.com/lacmasoftware/car-rental-system/blob/new_branch/homepage.png?raw=true)
+![alt text](https://github.com/lacmasoftware/car-rental-system/blob/new_branch/portfolio/homepage.png?raw=true)
 
 ## INTRODUCTION
 The main objective of the application car Rental System require a temporary vehicle, for example those who do not own their own car, or owners of damaged or destroyed vehicles who are awaiting repair or insurance compensation or travelers who are out of town.
